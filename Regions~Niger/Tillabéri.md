@@ -40,11 +40,18 @@ markerFolder: ./Tillabéri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Tillabéri|Tillabéri]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Tillabéri.public|Tillabéri.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Tillabéri.internal|Tillabéri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Tillabéri.protect|Tillabéri.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Tillabéri.private|Tillabéri.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Tillabéri.personal|Tillabéri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Tillabéri.secret|Tillabéri.secret]] 
+
+### #is_/same_as :: [Tillabéri](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tillabéri.md) 
+
+### #is_/same_as :: [Tillabéri.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tillabéri.public.md) 
+
+### #is_/same_as :: [Tillabéri.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tillabéri.internal.md) 
+
+### #is_/same_as :: [Tillabéri.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tillabéri.protect.md) 
+
+### #is_/same_as :: [Tillabéri.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tillabéri.private.md) 
+
+### #is_/same_as :: [Tillabéri.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tillabéri.personal.md) 
+
+### #is_/same_as :: [Tillabéri.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tillabéri.secret.md)
 

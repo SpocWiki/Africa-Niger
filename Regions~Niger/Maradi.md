@@ -40,11 +40,18 @@ markerFolder: ./Maradi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Maradi|Maradi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Maradi.public|Maradi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Maradi.internal|Maradi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Maradi.protect|Maradi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Maradi.private|Maradi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Maradi.personal|Maradi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Maradi.secret|Maradi.secret]] 
+
+### #is_/same_as :: [Maradi](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Maradi.md) 
+
+### #is_/same_as :: [Maradi.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Maradi.public.md) 
+
+### #is_/same_as :: [Maradi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Maradi.internal.md) 
+
+### #is_/same_as :: [Maradi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Maradi.protect.md) 
+
+### #is_/same_as :: [Maradi.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Maradi.private.md) 
+
+### #is_/same_as :: [Maradi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Maradi.personal.md) 
+
+### #is_/same_as :: [Maradi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Maradi.secret.md)
 

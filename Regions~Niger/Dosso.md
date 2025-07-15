@@ -40,11 +40,18 @@ markerFolder: ./Dosso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Dosso|Dosso]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Dosso.public|Dosso.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Dosso.internal|Dosso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Dosso.protect|Dosso.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Dosso.private|Dosso.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Dosso.personal|Dosso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Dosso.secret|Dosso.secret]] 
+
+### #is_/same_as :: [Dosso](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Dosso.md) 
+
+### #is_/same_as :: [Dosso.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Dosso.public.md) 
+
+### #is_/same_as :: [Dosso.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Dosso.internal.md) 
+
+### #is_/same_as :: [Dosso.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Dosso.protect.md) 
+
+### #is_/same_as :: [Dosso.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Dosso.private.md) 
+
+### #is_/same_as :: [Dosso.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Dosso.personal.md) 
+
+### #is_/same_as :: [Dosso.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Dosso.secret.md)
 

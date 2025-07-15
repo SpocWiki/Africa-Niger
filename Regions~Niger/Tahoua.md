@@ -40,11 +40,18 @@ markerFolder: ./Tahoua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Tahoua|Tahoua]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Tahoua.public|Tahoua.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Tahoua.internal|Tahoua.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Tahoua.protect|Tahoua.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Tahoua.private|Tahoua.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Tahoua.personal|Tahoua.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Tahoua.secret|Tahoua.secret]] 
+
+### #is_/same_as :: [Tahoua](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tahoua.md) 
+
+### #is_/same_as :: [Tahoua.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tahoua.public.md) 
+
+### #is_/same_as :: [Tahoua.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tahoua.internal.md) 
+
+### #is_/same_as :: [Tahoua.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tahoua.protect.md) 
+
+### #is_/same_as :: [Tahoua.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tahoua.private.md) 
+
+### #is_/same_as :: [Tahoua.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tahoua.personal.md) 
+
+### #is_/same_as :: [Tahoua.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Tahoua.secret.md)
 

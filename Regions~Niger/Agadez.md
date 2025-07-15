@@ -40,11 +40,18 @@ markerFolder: ./Agadez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Agadez|Agadez]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Agadez.public|Agadez.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Agadez.internal|Agadez.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Agadez.protect|Agadez.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Agadez.private|Agadez.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Agadez.personal|Agadez.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Agadez.secret|Agadez.secret]] 
+
+### #is_/same_as :: [Agadez](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Agadez.md) 
+
+### #is_/same_as :: [Agadez.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Agadez.public.md) 
+
+### #is_/same_as :: [Agadez.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Agadez.internal.md) 
+
+### #is_/same_as :: [Agadez.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Agadez.protect.md) 
+
+### #is_/same_as :: [Agadez.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Agadez.private.md) 
+
+### #is_/same_as :: [Agadez.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Agadez.personal.md) 
+
+### #is_/same_as :: [Agadez.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Agadez.secret.md)
 

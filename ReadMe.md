@@ -135,10 +135,4 @@ Capital :: [[Niamey]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Niger|Niger]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Niger.internal|Niger.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Niger.protect|Niger.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Niger.private|Niger.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Niger.personal|Niger.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Niger.secret|Niger.secret]] 
+

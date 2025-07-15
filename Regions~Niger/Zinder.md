@@ -40,11 +40,18 @@ markerFolder: ./Zinder/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Zinder|Zinder]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Zinder.public|Zinder.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Zinder.internal|Zinder.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Zinder.protect|Zinder.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Zinder.private|Zinder.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Zinder.personal|Zinder.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Zinder.secret|Zinder.secret]] 
+
+### #is_/same_as :: [Zinder](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Zinder.md) 
+
+### #is_/same_as :: [Zinder.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Zinder.public.md) 
+
+### #is_/same_as :: [Zinder.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Zinder.internal.md) 
+
+### #is_/same_as :: [Zinder.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Zinder.protect.md) 
+
+### #is_/same_as :: [Zinder.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Zinder.private.md) 
+
+### #is_/same_as :: [Zinder.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Zinder.personal.md) 
+
+### #is_/same_as :: [Zinder.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Zinder.secret.md)
 

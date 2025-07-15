@@ -40,11 +40,18 @@ markerFolder: ./Diffa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/Counties/Diffa|Diffa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/Counties/Diffa.public|Diffa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/Counties/Diffa.internal|Diffa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/Counties/Diffa.protect|Diffa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/Counties/Diffa.private|Diffa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/Counties/Diffa.personal|Diffa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/Counties/Diffa.secret|Diffa.secret]] 
+
+### #is_/same_as :: [Diffa](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Diffa.md) 
+
+### #is_/same_as :: [Diffa.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Diffa.public.md) 
+
+### #is_/same_as :: [Diffa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Diffa.internal.md) 
+
+### #is_/same_as :: [Diffa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Diffa.protect.md) 
+
+### #is_/same_as :: [Diffa.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Diffa.private.md) 
+
+### #is_/same_as :: [Diffa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Diffa.personal.md) 
+
+### #is_/same_as :: [Diffa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Diffa.secret.md)
 

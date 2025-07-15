@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.53333,2.083333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Niger/City/Niamey|Niamey]] 
-- [[../../../../../../_public/geo/Continent/Africa/Niger/City/Niamey.public|Niamey.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Niger/City/Niamey.internal|Niamey.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Niger/City/Niamey.protect|Niamey.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Niger/City/Niamey.private|Niamey.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Niger/City/Niamey.personal|Niamey.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Niger/City/Niamey.secret|Niamey.secret]] 
+
+### #is_/same_as :: [Niamey](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.md) 
+
+### #is_/same_as :: [Niamey.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.public.md) 
+
+### #is_/same_as :: [Niamey.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.internal.md) 
+
+### #is_/same_as :: [Niamey.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.protect.md) 
+
+### #is_/same_as :: [Niamey.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.private.md) 
+
+### #is_/same_as :: [Niamey.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.personal.md) 
+
+### #is_/same_as :: [Niamey.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.secret.md)
+
