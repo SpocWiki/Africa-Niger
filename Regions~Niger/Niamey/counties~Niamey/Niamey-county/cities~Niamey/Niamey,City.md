@@ -118,19 +118,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niamey)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niamey](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/counties~Niamey/Niamey-county/cities~Niamey/Niamey,City|Niamey,City]] 
 
-### #is_/same_as :: [Niamey.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/counties~Niamey/Niamey-county/cities~Niamey/Niamey,City.public|Niamey,City.public]] 
 
-### #is_/same_as :: [Niamey.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/counties~Niamey/Niamey-county/cities~Niamey/Niamey,City.internal|Niamey,City.internal]] 
 
-### #is_/same_as :: [Niamey.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/counties~Niamey/Niamey-county/cities~Niamey/Niamey,City.protect|Niamey,City.protect]] 
 
-### #is_/same_as :: [Niamey.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/counties~Niamey/Niamey-county/cities~Niamey/Niamey,City.private|Niamey,City.private]] 
 
-### #is_/same_as :: [Niamey.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/counties~Niamey/Niamey-county/cities~Niamey/Niamey,City.personal|Niamey,City.personal]] 
 
-### #is_/same_as :: [Niamey.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/City/Niamey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey/counties~Niamey/Niamey-county/cities~Niamey/Niamey,City.secret|Niamey,City.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Niamey/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niamey](/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey|Niamey]] 
 
-### #is_/same_as :: [Niamey.public](/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.public|Niamey.public]] 
 
-### #is_/same_as :: [Niamey.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.internal|Niamey.internal]] 
 
-### #is_/same_as :: [Niamey.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.protect|Niamey.protect]] 
 
-### #is_/same_as :: [Niamey.private](/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.private|Niamey.private]] 
 
-### #is_/same_as :: [Niamey.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.personal|Niamey.personal]] 
 
-### #is_/same_as :: [Niamey.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Niger/Regions~Niger/Niamey.secret|Niamey.secret]] 
 
