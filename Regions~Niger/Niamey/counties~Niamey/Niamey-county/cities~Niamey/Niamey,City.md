@@ -15,40 +15,40 @@ SpocWebEntityId: 35971
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Tamale,217040]]"
-  - "[[_Standards/WikiData/WD~Dakar,3718]]"
+  - "[[_Standards/WikiData/WD~Tamale,217040|WD~Tamale,217040]]"
+  - "[[_Standards/WikiData/WD~Dakar,3718|WD~Dakar,3718]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Niamey_IV,304745]]"
-  - "[[_Standards/WikiData/WD~Niamey_V,917406]]"
-  - "[[_Standards/WikiData/WD~Niamey_III,1650693]]"
-  - "[[_Standards/WikiData/WD~Niamey_II,1984541]]"
-  - "[[_Standards/WikiData/WD~Niamey_I,1984544]]"
-shares_border_with: "[[_Standards/WikiData/WD~Tillabéri_Region,861914]]"
+  - "[[_Standards/WikiData/WD~Niamey_IV,304745|WD~Niamey_IV,304745]]"
+  - "[[_Standards/WikiData/WD~Niamey_V,917406|WD~Niamey_V,917406]]"
+  - "[[_Standards/WikiData/WD~Niamey_III,1650693|WD~Niamey_III,1650693]]"
+  - "[[_Standards/WikiData/WD~Niamey_II,1984541|WD~Niamey_II,1984541]]"
+  - "[[_Standards/WikiData/WD~Niamey_I,1984544|WD~Niamey_I,1984544]]"
+shares_border_with: "[[_Standards/WikiData/WD~Tillabéri_Region,861914|WD~Tillabéri_Region,861914]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity_of_Niger,4683538]]"
-  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity_of_Niger,4683538|WD~administrative_territorial_entity_of_Niger,4683538]]"
+  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048|WD~first_level_administrative_division,10864048]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Colony_of_Niger,5148520]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
+  - "[[_Standards/WikiData/WD~Colony_of_Niger,5148520|WD~Colony_of_Niger,5148520]]"
+  - "[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]"
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Niger,11293729]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Niamey,39086327]]"
-head_of_government: "[[_Standards/WikiData/WD~Oumarou_Dogari_Moumouni,131679655]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514|WD~WikiProject_Cities,5497514]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Niger,11293729|WD~WikiProject_Niger,11293729]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Niamey,39086327|WD~timeline_of_Niamey,39086327]]"
+head_of_government: "[[_Standards/WikiData/WD~Oumarou_Dogari_Moumouni,131679655|WD~Oumarou_Dogari_Moumouni,131679655]]"
 coordinate_location: Point(2.1175 13.515)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Niger,1032]]"
-country: "[[_Standards/WikiData/WD~Niger,1032]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Niger_River,3542]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]"
+country: "[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Niger_River,3542|WD~Niger_River,3542]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Fula,33454]]"
-  - "[[_Standards/WikiData/WD~Tuareg,34065]]"
-  - "[[_Standards/WikiData/WD~Gourmanchéma,35474]]"
-  - "[[_Standards/WikiData/WD~Zarma,36990]]"
-  - "[[_Standards/WikiData/WD~Tahoua,56390]]"
-  - "[[_Standards/WikiData/WD~Hausa,56475]]"
+  - "[[_Standards/WikiData/WD~Fula,33454|WD~Fula,33454]]"
+  - "[[_Standards/WikiData/WD~Tuareg,34065|WD~Tuareg,34065]]"
+  - "[[_Standards/WikiData/WD~Gourmanchéma,35474|WD~Gourmanchéma,35474]]"
+  - "[[_Standards/WikiData/WD~Zarma,36990|WD~Zarma,36990]]"
+  - "[[_Standards/WikiData/WD~Tahoua,56390|WD~Tahoua,56390]]"
+  - "[[_Standards/WikiData/WD~Hausa,56475|WD~Hausa,56475]]"
 elevation_above_sea_level: 207
 local_dialing_code: "20"
 area: 239300000
@@ -84,7 +84,7 @@ native_label:
 [geo-lat::13.53333] 
 [name::Niamey] 
 State ::  
-Country :: [[../../../../../../Niger]]  
+Country :: [[../../../../../../Niger|Niger]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

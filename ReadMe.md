@@ -128,7 +128,7 @@ markerFolder: .//
 [Area-Land::1266700] 
 Continent :: [[Africa]]  
 [VehicleCode::RN] 
-Capital :: [[Regions~Niger/Niamey]]  
+Capital :: [[Regions~Niger/Niamey|Niamey]]  
 [Alcohol-l::0.3] 
 [Language-Id::496] 
 [geo-lon::2.08333] 
