@@ -116,7 +116,7 @@ maxZoom: 18
 >
 > Niamey comprises the Niamey Urban Community (French: Communauté Urbaine de Niamey, CUN), a first-level division of Niger, led by the Governor of Niamey. It is divided into five communes: Niamey I, II, III, and IV on the left bank, and V on the right bank. The city also has a municipal government, though it was dissolved in 2024. Transportation links include Diori Hamani International Airport, highways including RN1, and the unused Niamey railway station. Niamey is home to Abdou Moumouni University, Niger's most important university, and Niamey National Hospital, the country's largest referral hospital.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Niamey)
+> [Wikipedia](https://en.wikipedia.org/wiki/Niamey) 
 
 
 ## Confidential Links & Embeds: 

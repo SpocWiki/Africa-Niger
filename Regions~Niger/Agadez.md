@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Agadez/
 markerFolder: ./Agadez/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

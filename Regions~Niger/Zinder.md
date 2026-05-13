@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zinder/
 markerFolder: ./Zinder/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
