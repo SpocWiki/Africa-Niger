@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 尼日尔共和国
 dv_UNTERM_French_Formal: la République du Niger
 dv_UNTERM_Russian: Нигер
 dv_UNTERM_Russian_Formal: Республика Нигер
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -55,7 +55,7 @@ dv_ISO2: NE
 dv_ISO3: NER
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Niger,1032|WD~Niger,1032]]'
+  - '[[../../../../../WikiData/WD~Niger,1032|WD~Niger,1032]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Niger|Niger]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central/Niger.public|Niger.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central/Niger.internal|Niger.internal]]'
@@ -350,17 +350,17 @@ dv_has_:
 dv_has_name_de: Niger
 dv_Area-Total: 1267000
 dv_Area-Land: 1266700
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: RN
-dv_Capital: '[[Niger/Regions~Niger/Niamey|Niamey]]'
+dv_Capital: '[[Regions~Niger/Niamey|Niamey]]'
 dv_Alcohol-l: 0.3
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 2.08333
 dv_has_place_latitude: 13.5333
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Niger,1032|WD~Niger,1032]]'
+- '[[../../../../../WikiData/WD~Niger,1032|WD~Niger,1032]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Niger|Niger]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central/Niger.public|Niger.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central/Niger.internal|Niger.internal]]'
@@ -906,7 +906,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Niger/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map 
@@ -927,7 +927,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Niger_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
